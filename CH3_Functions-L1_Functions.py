@@ -1,4 +1,4 @@
-
+# https://www.boot.dev/lessons/b4f5a4ef-9fb0-40f7-9dc6-baf28fe1be36
 # Assignment
 
 # We need to calculate the size of a weapon's
